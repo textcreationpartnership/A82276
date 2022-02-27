@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The definition of a king, with the cure of a king wilfully mad, and the way to prevent tyranny. Also papisticall ceremonies that now are used in baptisme and buriall; which ought to be abhorred and forsaken.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82276</idno>
+            <idno type="STC">Wing D825</idno>
+            <idno type="STC">Thomason E118_18</idno>
+            <idno type="STC">ESTC R22507</idno>
+            <idno type="EEBO-CITATION">99871771</idno>
+            <idno type="PROQUEST">99871771</idno>
+            <idno type="VID">156094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156094)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E118[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The definition of a king, with the cure of a king wilfully mad, and the way to prevent tyranny. Also papisticall ceremonies that now are used in baptisme and buriall; which ought to be abhorred and forsaken.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Thomas Banks,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sep: ̂21 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy.</term>
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156094:1" rendition="simple:additions"/>
+            <p>THE DEFINITION of a KING, With the Cure of a King wilfully mad, and the way to prevent Tyranny.</p>
+            <p>Alſo Papiſticall Cere<g ref="char:EOLhyphen"/>monies that now are uſed in Baptiſme and Buriall; which ought to be abhorred and forſaken.</p>
+            <p>
+               <add>Sep: 21</add> Printed at <hi>London</hi> for <hi>Thomas Banks.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:156094:2"/>
+            <pb n="1" facs="tcp:156094:2"/>
+            <head>The Definition of a King, with the Cure of a King wilfully mad, and the way to prevent Tyranny.</head>
+            <head type="sub">Alſo Papiſticall Ceremonies that now are uſed in Baptiſme and Buriall, which ought to be abhorred and forſaken.</head>
+            <div n="1" type="part">
+               <head>1 Concerning Kings:</head>
+               <epigraph>
+                  <q>
+                     <bibl>Proverbs 21. Chapter, 1 Verſe.</bibl>
+                     <p>As the diviſions of waters, ſo is the heart of the King in the hands of the Lord, hee will bend the ſame which way ſoever it pleaſeth him.</p>
+                  </q>
+               </epigraph>
+               <stage>Euſebius, Timotheus.</stage>
+               <sp>
+                  <p>
+                     <seg rend="decorInit">T</seg>O omit (leaſt I ſeem an ungentle entertainer) the various or different conjectures which on this place are gathered by Interpreters, I do conceive this to be the morall ſence.</p>
+                  <p>That other perſons by admonitions, reproofes, Laws and menaces may be beat or perſwaded, but the mind of a King (becauſe he ſtands in awe of none) if you reſiſt it, is the more incenſt, and therefore Princes, ſo often as
+<pb n="2" facs="tcp:156094:3"/>they be earneſtly inclind to any thing, muſt be thereunto left, not becauſe they would alwaies doe what's beſt, but in reſpect Almighty God ſometimes doth uſe their folly or malice to offend thoſe that have offended, even as hee forbad his people to withſtand <hi>Nabuchadnezzar,</hi> for that by his oppreſſion he had decreed to chaſtice them. Being perhaps the ſame which <hi>Iob</hi> ſaith, <hi>Who maketh the Hypo<g ref="char:EOLhyphen"/>crite to reigne for the ſins of the people.</hi>
+                  </p>
+                  <p>And hereunto happily belongeth what <hi>David</hi> deplo<g ref="char:EOLhyphen"/>ring his ſin did utter. <hi>I have ſinned againſt thee alone, and have done evill in thy ſight.</hi>
+                  </p>
+                  <p>Not that Kings doe not ſin, to the great damage of their Subjects, but that they have not over them a man by whoſe authority they may be condemned, where no man how great ſoever can eſcape the judgements of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Your interpretation I diſlike not, but what mean <hi>the diviſions of the waters?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Evſeb.</speaker>
+                  <p>There a Similitude is uſed, by which the mat<g ref="char:EOLhyphen"/>ter may be explained. The provoked ſtomack of a King is a violent and unruly thing, neither can it be drawn hi<g ref="char:EOLhyphen"/>ther or thither, but is hurried by its owne headlong force as one incited with a Divine Furie. Even as the Sea doth ſcatter it ſelfe upon the Land, and ſuddenly changeth its courſe, contemning fields, buildings, and whatſoever doth reſiſt, in ſome place hiding it ſelfe under ground, whoſe force if you indeavour to inhibite, or any other way di<g ref="char:EOLhyphen"/>vert, the labour is all loſt. The ſame hath alſo happened in great Rivers, as Poets declare of <hi>Achelous,</hi> but if you well obey them, leſſe hurt is received than if you violent<g ref="char:EOLhyphen"/>ly oppoſed them.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Is there no remedy therefore againſt the wilful<g ref="char:EOLhyphen"/>neſſe of evill Kings?</p>
+               </sp>
+               <sp>
+                  <pb n="5" facs="tcp:156094:3"/>
+                  <speaker>Euſ.</speaker>
+                  <p>The chiefeſt perhaps will be to keepe the Lyon out of the City, the next, by authority of the Senate, Ma<g ref="char:EOLhyphen"/>giſtrates and Citizens ſo to moderate his power, that hee may not eaſily breake forth into tyranny; but the chiefeſt of all, while he is yet a Child, and knows not himſelf to be a Prince, his mind with holy precepts to faſhion and in<g ref="char:EOLhyphen"/>ſtruct; intreaties alſo and advertiſements, but mild and ſeaſonable profit much. But the laſt Anchor is, very ear<g ref="char:EOLhyphen"/>neſtly to call upon God, that he would incline the Kings mind to thoſe things which are worthy of a Chriſtian Prince.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>What meaneſt thou ſimple man? If I were Bache<g ref="char:EOLhyphen"/>lour of Divinitie, ſhould I not be aſham'd of this inter<g ref="char:EOLhyphen"/>pretation.</p>
+               </sp>
+               <sp>
+                  <speaker>Euſ:</speaker>
+                  <p>I know not whether it be true it ſatisfies me that my meaning is neither impious nor hereticall; your <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I have obeyed; now as in ſuch meeting it is meet I deſire on the other ſide to be a hearer.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>If unto theſe gray haires you aſſigne any thing, this ſpring ſeems to me to be applied unto a more obſcure or ſubtle ſence.</p>
+               </sp>
+               <sp>
+                  <speaker>Euſ.</speaker>
+                  <p>I do beleeve you &amp; deſire to hear.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>A King we may underſtand to be a perfect man, (who having his carnall affections tam'd and ſubdued) is directed by the only power of Gods Spirit. And ſuch a man it is not fit by humane Laws to be reſtrained, but to leave him unto his L. by whoſe Spirit he is guided. Nei<g ref="char:EOLhyphen"/>ther is he to be judged from theſe things whereby the im<g ref="char:EOLhyphen"/>becillity of thoſe that are imperfect, howſoever is brouht unto true godlineſſe; but if he do any thing amiſſe, wee muſt conclude with <hi>Paul,</hi> the Lord hath taken him unto himſelfe, unto his Lord, he ſtandeth or falleth, likewiſe this.</p>
+                  <pb n="4" facs="tcp:156094:4"/>
+                  <p> A ſpirituall man judgeth all things, but is judged by none, let no man therefore preſcribe unto ſuch, but the Lord, who hath preſcribed bounds to the Sea, and rivers, holds the Kings heart in his hand, and turnes the ſame which way ſoever it pleaſeth him; for what need have we to preſcribe unto him, who performeth better things of his own accord than the Laws of man do require, or what a raſhneſſe were it for us to binde that man unto ordinan<g ref="char:EOLhyphen"/>ces, whom by ſure proofs we finde to be governed by the motions of Gods ſpirit.</p>
+               </sp>
+               <sp>
+                  <speaker>Eul.</speaker>
+                  <p>Now ſurely <hi>Timotheus,</hi> you have not onely gray haires- but a breaſt alſo to be reverenced for gravity of learning. And I pray God amongſt Chriſtians (as all Kings ought to be) there may be found many worthy of that name.</p>
+               </sp>
+            </div>
+            <div n="2" type="part">
+               <head>2. <hi>Concerning Papiſticall Ceremonies.</hi>
+               </head>
+               <stage>Nephalus, Chryſoglottus.</stage>
+               <sp>
+                  <speaker>NEph.</speaker>
+                  <p>How many Chriſtians have I ſeene very coldly dying (not in fleſh but in faith) ſome confiding in thoſe things, wherein they are not to confide, other for the guilt of their wickedneſſe and ſcruples that ſome un<g ref="char:EOLhyphen"/>learned dunces buz in the dying mans eare, dye almoſt in deſpaire.</p>
+               </sp>
+               <sp>
+                  <speaker>Chr.</speaker>
+                  <p>Neither is it a wonder, that they ſo expire, who have ſpent the whole time of their lives in ſtudying Ce<g ref="char:EOLhyphen"/>remonies,</p>
+               </sp>
+               <sp>
+                  <speaker>Ne.</speaker>
+                  <p>What meane you by that.</p>
+               </sp>
+               <sp>
+                  <speaker>Chr.</speaker>
+                  <p>I'le tell you, but with this preface that I doe not reprove, but rather earneſtly approve the Sacraments and rights of the Church. But ſome either wicked or ſuperſti<g ref="char:EOLhyphen"/>tious
+<pb n="7" facs="tcp:156094:4"/>or (to uſe the mildeſt phraſe) ſimple and unlearned men that teach the people in theſe things to confide, let<g ref="char:EOLhyphen"/>ting paſſe theſe things which truely make us Chriſtians.</p>
+               </sp>
+               <sp>
+                  <speaker>Ne.</speaker>
+                  <p>As yet I hardly underſtand whether you tend.</p>
+               </sp>
+               <sp>
+                  <speaker>Chr.</speaker>
+                  <p>I ſhall give you to underſtand, if the common ſort of Chriſtians you conſider, are not their lives from head to heel conſumed with Ceremonies, with how much Religion are the hold rites of the Church repreſented in Baptiſme? the Infant ſtaies without the Temple doors, a Catechiſing is performed, vowes undertaken, Sathan with his pomps and pleaſures abjur'd. At length the in<g ref="char:EOLhyphen"/>fant is beſmeard with oyle, croſt, ſalted, dipt, charge to the witneſſes is given, that they ſhall have a care to ſee the childe inſtructed, yet they, by monie given, are of this charge releaſed, and then the childe is called a Chri<g ref="char:EOLhyphen"/>ſtian, who in ſome manner is. Again he is annointed, at length he learns to confeſſe, receives the Euchariſt, uſeth to reſt on holie dayes, to heare Maſſe, ſometimes to taſte and abſtaine from fleſh. And theſe things if he obſerve he is eſteemed an abſolute Chriſtian. Takes he a wife? hee a<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>res another Sacrament, if he enter into orders, hee takes new unction, and is conſecrated, changeth his gar<g ref="char:EOLhyphen"/>ments and ſaith prayers. Now I allow that all theſe things be done: but that theſe things be done more of cuſtome then of zeal, I do not allow, but rather vehemently con<g ref="char:EOLhyphen"/>demn, becauſe nothing elſe is applied to Chriſtianity. For many men while they truſt unto theſe things, doe never<g ref="char:EOLhyphen"/>theleſſe in the interim, by right or wrong, heap up riches, yeeld to their anger, ſerve their luſt, their envy and ambi<g ref="char:EOLhyphen"/>tion, and ſo at length expire.</p>
+                  <pb n="6" facs="tcp:156094:5"/>
+                  <p> Now here again new Ceremonies are prepared, Con<g ref="char:EOLhyphen"/>feſſion is uſed once and againe, Unction is added, and the Euchariſt given; the ſacred waxen Tapors be there pre<g ref="char:EOLhyphen"/>ſent with Croſſe and Holy Water, Indulgences are adhi<g ref="char:EOLhyphen"/>bited, the Popes Bull is drawne forth, or there bought by the dying man, his Funeralls are ordered to be magnifi<g ref="char:EOLhyphen"/>cently celebrated, again is made a ſolemne ſtipulation or Covenant; There is one that cryes aloud to the dying man, yea, ſometimes if he happen to cry ſhrill or be well tippled, kills him before his time.</p>
+                  <p>As theſe things be us'd rightly, chiefly thoſe which through Cuſtome have beene delivered to us, ſo there be certaine other things more hidden which wil performe this unto us, that with alacrity of ſpirit, and Chriſtian confidence we may wander out of this vale of miſery.</p>
+               </sp>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
